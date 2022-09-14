@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I am yyttm 👏🏻
+**Blog** [My Blog](https://yyttm.github.io)
+**contact** jiayichong233@qq.com
+**Preview**From Henan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🍔.
 
 <!--
 **yyttm/yyttm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
