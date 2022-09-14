@@ -8,9 +8,6 @@
 
 ![](https://img.shields.io/badge/python-3.9-orange) 
 
-<a href="https://github.com/yyttm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yyttmfzh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="yyttm's github stats" /></a> 
-
-<a href="https://github.com/yyttm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyttmfzh&layout=compact&theme=vue&hide_border=true" /></a>
-
+![Metrics](https://metrics.lecoq.io/yyttm?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.twemoji=true)
 <!--
 
